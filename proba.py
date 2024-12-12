@@ -7,3 +7,5 @@ for i in range(10):
         c += b
 
 print(c)
+
+print(a)
